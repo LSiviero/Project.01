@@ -3,9 +3,10 @@
 return [
 
     'main_navigation'               => 'MAIN NAVIGATION',
+    'cadastros'                     => 'Cadastros',
     'blog'                          => 'Blog',
     'pages'                         => 'Pages',
-    'account_settings'              => 'ACCOUNT SETTINGS',
+    'account_settings'              => 'ACCOUNT',
     'profile'                       => 'Profile',
     'change_password'               => 'Change Password',
     'multilevel'                    => 'Multi Level',
